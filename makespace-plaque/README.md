@@ -1,1 +1,1 @@
-Plans for the makespace plaque and its accompanying box.
+Plans for the makespace plaque and its accompanying box. The results can be seen at http://www.flickr.com/photos/lauriej/8602783101/in/photostream - these files assume cutting into 3mm deep acrylic (for the plaque) and 3mm ply for the box, otherwise the geometry won't work for the tabs! 
