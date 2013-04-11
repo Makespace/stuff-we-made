@@ -1,0 +1,1 @@
+Unless otherwise specified all content in this repository is licensed under the [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) licence. We'd love to hear from you if you make use of the content here but it's not a condition of use!
