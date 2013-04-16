@@ -8,6 +8,11 @@ It has holes in one face for usb, network and a spare hole for sensor wires or s
 Based on a design from thingiverse.com
 
 Files included -
+
 lasercut arduino case v3.skp - Sketchup design
+
+
 lasercut arduino case v3.dxf - DXF exported from above
+
+
 arduino case v3 - folder of files from actual run on laser cutter
