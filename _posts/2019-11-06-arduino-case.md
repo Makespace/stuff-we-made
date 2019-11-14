@@ -3,7 +3,7 @@ layout: post
 title: "Arduino case"
 author: Unknown
 categories: [ arduino, lasercutter ]
-image: arduino-case/arduino-case.jpg
+image: projects/arduino-case/arduino-case.jpg
 featured: true
 description: "Arduino case"
 ---
