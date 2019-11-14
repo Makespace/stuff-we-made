@@ -4,7 +4,7 @@ title: "Arduino case"
 categories: [ arduino, lasercutter ]
 image: projects/arduino-case/arduino-case.jpg
 featured: true
-description: "Arduino case"
+description: "A case for an arduino."
 project_url: projects/arduino-case/
 ---
 
