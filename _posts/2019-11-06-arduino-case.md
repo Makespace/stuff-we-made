@@ -8,4 +8,3 @@ description: "Arduino case"
 project_url: projects/arduino-case/
 ---
 
-You are not supposed to read this
