@@ -1,8 +1,8 @@
 remote_theme: makespace/mediumish-theme-jekyll
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Makespace"
+title: "Makespace"
+description: "Stuff we made at Cambridge Makespace"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /stuff-we-made
