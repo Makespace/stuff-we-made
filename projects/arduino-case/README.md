@@ -1,5 +1,4 @@
-Arduino Case
-============
+# Arduino Case
 
 A set of files for laser cutting a case for arduino and network shield (enc28j60 based version) out of 3mm sheet.
 
@@ -9,12 +8,10 @@ It has holes in one face for usb, network and a spare hole for sensor wires or s
 
 Based on a design from thingiverse.com
 
-Files included -
+## Files included 
 
-lasercut arduino case v3.skp - Sketchup design
-
-
-lasercut arduino case v3.dxf - DXF exported from above
-
-
-arduino case v3 - folder of files from actual run on laser cutter
+Filename                                                     | Description
+--------                                                     | -----------
+[lasercut arduino case v3.skp](lasercut arduino case v3.skp) | Sketchup design
+[lasercut arduino case v3.dxf](lasercut arduino case v3.dxf) | DXF exported from above
+[arduino case v3](arduino case v3)                           | folder of files from actual run on laser cutter
