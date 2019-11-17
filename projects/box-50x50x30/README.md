@@ -1,5 +1,7 @@
 # Box 50x50x30
 
+![ScreenShot](box-50x50x30.jpg)
+
 A box to store small components, built with the laser cutter. It can be done with 3mm wood ply or acrylic.
 
 ## Instructions
